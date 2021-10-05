@@ -1,0 +1,4 @@
+com\haythem\atos\TechnicalTestAtosApplicationTests.class
+com\haythem\atos\UserMapperTest.class
+com\haythem\atos\UserServiceTest.class
+com\haythem\atos\UserControllerTest.class
